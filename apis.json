@@ -1,0 +1,50 @@
+{
+    "name": "Timr",
+    "description": "Die digitale Zeiterfassung statt Excel und Papier - Professionell und Einfach, F\u00fcr Arbeitszeit, Urlaubsverwaltung, Projektzeiten. Auf Knopfdruck auswerten. Jetzt kostenlos testen!",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1367-timr.jpg",
+    "tags": [
+        "have api",
+        "office",
+        "projects",
+        "tracking"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/timr\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Timr",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1367-timr.jpg",
+            "humanURL": "http:\/\/www.timr.com\/tour\/api",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/timr-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.timr.com\/tour\/api"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/timr"
+        },
+        {
+            "type": "Email",
+            "url": "info@timr.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/timr"
+        }
+    ]
+}
